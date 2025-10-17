@@ -1,12 +1,12 @@
 # How Institutional Corruption Captured UK Higher Education Journalism
 
-#### Epistemic Clientelism, Fiduciary Opacity, and the Entrenchment of Elite Power
+### Epistemic Clientelism, Fiduciary Opacity, and the Entrenchment of Elite Power
+
+by Peter Kahl, 2025-08-02
+
+[![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![alt text](https://github.com/Peter-Kahl/How-Institutional-Corruption-Captured-UK-Higher-Education-Journalism/blob/main/manage_the_story_2.jpg?raw=true)
-
-by Peter Kahl; independent scholar
-
-Published 2 August 2025
 
 ### Abstract
 
@@ -18,17 +18,18 @@ Further, this research situates journalism within broader elite trajectories con
 
 UK higher education journalism, institutional corruption, epistemic clientelism, fiduciary opacity, fiduciary ethics, elite pathways, Oxbridge, journalistic independence, epistemic gatekeeping, democratic accountability, Times Higher Education, The Guardian, David Willetts, Brian Klaas, Lawrence Lessig, regulatory reform, Journalistic Hippocratic Oath, elite capture, democratic legitimacy, public trust, media ethics, governance reform
 
----
+## Download
 
-Correspondence regarding this work is welcome.
+- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/How-Institutional-Corruption-Captured-UK-Higher-Education-Journalism/master/Kahl_P_How_Institutional_Corruption_Captured_UK_Higher_Education_Journalism_2_August_2025.pdf)
 
-Download this scholarly work as a PDF for sharing and citation: [PDF download](https://raw.githubusercontent.com/Peter-Kahl/How-Institutional-Corruption-Captured-UK-Higher-Education-Journalism/master/Kahl_P_How_Institutional_Corruption_Captured_UK_Higher_Education_Journalism_2_August_2025.pdf)
+## Cite this work:
 
-Cite this work:
+Kahl, P. (2025). _How Institutional Corruption Captured UK Higher Education Journalism_. Lex et Ratio Ltd. https://github.com/Peter-Kahl/How-Institutional-Corruption-Captured-UK-Higher-Education-Journalism
 
-```
-Peter Kahl, ‘How Institutional Corruption Captured UK Higher Education Journalism’ (2 August 2025) available at <https://github.com/Peter-Kahl/How-Institutional-Corruption-Captured-UK-Higher-Education-Journalism>
-```
-### Licence
-Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
+## Publisher & Licence
 
+First published in Great Britain by Peter Kahl, 2025-08-02.
+
+© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
+You may share this work for non-commercial purposes with attribution and without modification.\
+Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
