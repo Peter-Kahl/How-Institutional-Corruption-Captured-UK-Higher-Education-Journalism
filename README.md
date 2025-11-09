@@ -2,6 +2,8 @@
 
 ### Epistemic Clientelism, Fiduciary Opacity, and the Entrenchment of Elite Power
 
+---
+
 by Peter Kahl, 2025-08-02
 
 [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
@@ -24,12 +26,11 @@ UK higher education journalism, institutional corruption, epistemic clientelism,
 
 ## Cite this work:
 
-Kahl, P. (2025). _How Institutional Corruption Captured UK Higher Education Journalism_. Lex et Ratio Ltd. https://github.com/Peter-Kahl/How-Institutional-Corruption-Captured-UK-Higher-Education-Journalism
+Kahl, P. (2025). _How institutional corruption captured UK higher education journalism: Epistemic clientelism, fiduciary opacity, and the entrenchment of elite power_. Lex et Ratio Ltd. https://github.com/Peter-Kahl/How-Institutional-Corruption-Captured-UK-Higher-Education-Journalism
 
 ## Publisher & Licence
 
 First published in Great Britain by Peter Kahl, 2025-08-02.
 
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
-You may share this work for non-commercial purposes with attribution and without modification.\
-Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
+© 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
+Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
